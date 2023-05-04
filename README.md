@@ -1,2 +1,2 @@
 # cDE-emc-um
-Hardware Implementation of cDE for Multitasking
+Code submitted to IEEE TOC “Hardware Implementation of cDE for Multitasking”， April 17, 2023.
