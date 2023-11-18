@@ -31,7 +31,7 @@ The generic $erf$  function can be called from the C++ implementation of the  $e
 #include "ap_axi_sdata.h"
 ```
 
-But erf-1 is not implemented in C++, so it needs to be reproduced. The generic $erf^{-1}$ function is implemented with the following C++ code
+But $erf^{-1}$ is not implemented in C++, so it needs to be reproduced. The generic $erf^{-1}$ function is implemented with the following C++ code
 
 ```
 double myerfinv(double yo){
